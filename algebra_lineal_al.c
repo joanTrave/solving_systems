@@ -1,5 +1,5 @@
 
-/* Autor: Big Vuk (@redKuv) para Informaticatech
+/* Autor: Joan Travé (@dzerkuv)
  * 
  * ----------------------------------------------------------------------------
  * 
